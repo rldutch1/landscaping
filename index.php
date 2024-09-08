@@ -136,7 +136,7 @@ echo "<table id='example' class='display example' width='100%'>
 <tfoot>
 <th>Date of Service</th><th>Paid</th><th>Recorder</th><th>Comment</th>
 </tfoot>
-</table>";
-?>
+</table>
 </body>
-</html>
+</html>";
+?>

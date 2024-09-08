@@ -1,4 +1,4 @@
- <?php
+<?php
 //How to write prepare and execute statements in OOP PDO?
 //https://stackoverflow.com/questions/42551050/how-to-write-prepare-and-execute-statements-in-oop-pdo
 
